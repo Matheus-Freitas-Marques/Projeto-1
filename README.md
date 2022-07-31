@@ -1,2 +1,2 @@
 # Projeto-1
-Primeiro site criado por Matheus Freitas Marques.
+Meu primeiro site criado. Apenas html e css.
